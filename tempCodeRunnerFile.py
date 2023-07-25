@@ -1,0 +1,5 @@
+str = input()
+# str_ = str.split()
+# N=int(str_[0])
+# M=int(str_[1])
+# print(N,M)
